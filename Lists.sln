@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativeAndReverse", "Lists\RemoveNegativeAndReverse.csproj", "{76AB03E0-C5FD-422E-96FD-EFD04656C8BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendList", "AppendList\AppendList.csproj", "{823C184F-D186-4BD5-909B-508BC7A1FAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAdjacentEqualNumbers", "SumAdjacentEqualNumbers\SumAdjacentEqualNumbers.csproj", "{D4966DE3-75A3-45E2-99ED-2AFC388598E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitByWordCasing", "SplitByWordCasing\SplitByWordCasing.csproj", "{4D7EA9DF-7B07-462C-B438-4F37A7836EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortNumbers", "SortNumbers\SortNumbers.csproj", "{1F22AFD9-19D2-4BC6-8E08-06A7BDEBFA5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{4F20AF34-1672-4194-B13B-0282B16C79A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchForANumber", "SearchForANumber\SearchForANumber.csproj", "{8ABF1381-207F-433F-BBFF-0D62BD5B7159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76AB03E0-C5FD-422E-96FD-EFD04656C8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AB03E0-C5FD-422E-96FD-EFD04656C8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AB03E0-C5FD-422E-96FD-EFD04656C8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AB03E0-C5FD-422E-96FD-EFD04656C8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823C184F-D186-4BD5-909B-508BC7A1FAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823C184F-D186-4BD5-909B-508BC7A1FAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823C184F-D186-4BD5-909B-508BC7A1FAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823C184F-D186-4BD5-909B-508BC7A1FAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4966DE3-75A3-45E2-99ED-2AFC388598E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4966DE3-75A3-45E2-99ED-2AFC388598E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4966DE3-75A3-45E2-99ED-2AFC388598E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4966DE3-75A3-45E2-99ED-2AFC388598E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7EA9DF-7B07-462C-B438-4F37A7836EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7EA9DF-7B07-462C-B438-4F37A7836EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7EA9DF-7B07-462C-B438-4F37A7836EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7EA9DF-7B07-462C-B438-4F37A7836EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F22AFD9-19D2-4BC6-8E08-06A7BDEBFA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F22AFD9-19D2-4BC6-8E08-06A7BDEBFA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F22AFD9-19D2-4BC6-8E08-06A7BDEBFA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F22AFD9-19D2-4BC6-8E08-06A7BDEBFA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F20AF34-1672-4194-B13B-0282B16C79A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F20AF34-1672-4194-B13B-0282B16C79A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F20AF34-1672-4194-B13B-0282B16C79A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F20AF34-1672-4194-B13B-0282B16C79A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABF1381-207F-433F-BBFF-0D62BD5B7159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABF1381-207F-433F-BBFF-0D62BD5B7159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABF1381-207F-433F-BBFF-0D62BD5B7159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABF1381-207F-433F-BBFF-0D62BD5B7159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB2B42D-3FF6-4312-95F8-55C3B2D95561}
+	EndGlobalSection
+EndGlobal
